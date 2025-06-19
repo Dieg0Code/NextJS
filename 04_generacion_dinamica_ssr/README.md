@@ -329,3 +329,5 @@ export default function Error({
 Las páginas de error se deben renderizar del lado del cliente, por lo que debemos usar `"use client"` al inicio del archivo.
 
 > Podemos personalizar las páginas de error como queramos, por ejemplo, [esta](https://www.creative-tim.com/twcomponents/component/tailwind-css-500-server-error-illustration) es un buen ejemplo de una página de error 500.
+
+### Rutas dinámicas - Argumentos por URL
